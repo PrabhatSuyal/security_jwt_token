@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.security2</groupId>
-	<artifactId>security2</artifactId>
+	<artifactId>security_jwt_token</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>security2</name>
 	<description>security2 project for Spring Boot</description>
